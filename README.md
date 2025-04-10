@@ -15,7 +15,7 @@
 
 | Light Theme | Dark Theme |
 |-------------|------------|
-| ![Light Theme](./src/screenshots/light_theme.png) | ![Dark Theme](./src/screenshots/black_theme.png) |
+| ![Light Theme](./to-do-list/src/screenshots/light_theme.png) | ![Dark Theme](./to-do-list/src/screenshots/black_theme.png) |
 
 ## 🚀 Getting Started
 
