@@ -2,6 +2,8 @@
 
 **TaskList** is a modern and responsive web application for managing tasks, built with **React** and **pure CSS**—no external styling libraries. The app includes **dark/light mode**, **filter options**, **real-time search**, and a **clean, user-focused interface**.
 
+[Live Demo](https://regulusrk.github.io/tasklist/)
+
 ## ✨ Features
 
 - ✅ Add, complete, and delete tasks  
